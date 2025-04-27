@@ -35,9 +35,9 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![task-1](./img/task-1-1.png)
-![task-1](./img/task-1-2.png)
-![task-1](./img/task-1-3.png)`
+![task-1](img/task-1-1.png)
+![task-1](img/task-1-2.png)
+![task-1](img/task-1-3.png)`
 
 
 ---
